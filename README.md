@@ -10,6 +10,23 @@ Este proyecto tiene como objetivo **analizar y predecir la cancelación de clien
 - Proponer **estrategias de retención** basadas en los resultados obtenidos.
 
 
+## 📂 Estructura del proyecto
+
+El proyecto contiene los siguientes archivos principales:
+
+TelecomX_LATAM_2
+
+│── TelecomX_LATAM_2.ipynb 
+
+│── telecomX_limpio.csv 
+
+│── README.md 
+
+- 📒 **TelecomX_LATAM_2.ipynb** → cuaderno Jupyter donde se realiza todo el flujo de trabajo: preparación de datos, análisis exploratorio, modelado y conclusiones.  
+- 📂 **telecomX_limpio.csv** → archivo con los datos tratados, que se carga directamente en el notebook para análisis y entrenamiento de modelos.  
+- 📄 **README.md** → archivo de documentación que explica el propósito del proyecto, la metodología y cómo ejecutarlo.
+
+
 
 ## 🛠️ Proceso de preparación de datos
 
